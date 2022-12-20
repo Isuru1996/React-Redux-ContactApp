@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Redux-ContactApp/static/css/main.12912f77.css",
+    "main.js": "/React-Redux-ContactApp/static/js/main.72a2dd5d.js",
+    "static/js/787.a6063115.chunk.js": "/React-Redux-ContactApp/static/js/787.a6063115.chunk.js",
+    "index.html": "/React-Redux-ContactApp/index.html",
+    "main.12912f77.css.map": "/React-Redux-ContactApp/static/css/main.12912f77.css.map",
+    "main.72a2dd5d.js.map": "/React-Redux-ContactApp/static/js/main.72a2dd5d.js.map",
+    "787.a6063115.chunk.js.map": "/React-Redux-ContactApp/static/js/787.a6063115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12912f77.css",
+    "static/js/main.72a2dd5d.js"
+  ]
+}
